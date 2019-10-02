@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/VlaD77/HackMore/issues"
   },
-  "homepage": "https://github.com/VlaD77/HackMore#readme"
+  "homepage": "https://github.com/VlaD77/HackMore#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
