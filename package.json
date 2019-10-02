@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/VlaD77/HackMore/issues"
   },
-  "homepage": "https://github.com/VlaD77/HackMore#readme"
+  "homepage": "https://github.com/VlaD77/HackMore#readme",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1"
+  }
 }
